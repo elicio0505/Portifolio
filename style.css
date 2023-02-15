@@ -1,0 +1,73 @@
+
+
+.navegacao {
+    position: relative;
+   
+}
+.outdor {
+    background-color: antiquewhite;
+    width: max-content;
+    height: 100;
+}
+.container1 {
+    font-size: larger;
+    font-weight: 100;
+text-rendering: auto;
+  text-decoration-line: overline;
+   margin:  30px;
+   padding: 20px;
+  
+ min-width: 20px;
+
+}
+.imagen {
+
+    width: block;
+    height: 100%;
+}
+
+.titulo {
+    margin: 40px;
+    text-align: center;
+text-transform: uppercase;
+text-decoration: dashed;
+background-color: solid;
+
+color:black; 
+
+
+}
+
+.titulo1 {
+    color:black;
+}
+ body {
+     
+    display: block;
+    margin: 5px ;
+    padding: 5pxpx;
+    background-color: rgba(37, 38, 35, 0.222);
+   border-radius: 50%;
+   border: 10px;
+ } 
+ .container {
+    margin-left: 450px;
+margin-top: 20px; 
+ padding: 3px;   
+width:500px;
+height: 700px;
+box-shadow: 10 ,10 10, rgb(49, 18, 24);
+
+ }
+ .contato_container {
+    position: absolute;
+   
+    margin: 100px;
+    padding: 100px;
+ }
+ .pagina {
+    text-align: center;
+ }
+ .sobre_mim {
+    text-align: center;
+ }
